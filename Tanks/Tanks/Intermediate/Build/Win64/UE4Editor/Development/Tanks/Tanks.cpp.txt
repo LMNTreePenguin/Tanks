@@ -1,2 +1,0 @@
-C:\Users\Joshua\Documents\Unreal Projects\Tanks\Tanks\Tanks\Intermediate\Build\Win64\UE4Editor\Development\Tanks\Definitions.Tanks.h
-C:\Users\Joshua\Documents\Unreal Projects\Tanks\Tanks\Tanks\Source\Tanks\Tanks.h

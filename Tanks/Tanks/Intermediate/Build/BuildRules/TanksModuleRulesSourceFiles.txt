@@ -1,3 +1,0 @@
-C:\Users\Joshua\Documents\Unreal Projects\Tanks\Tanks\Tanks\Source\Tanks\Tanks.Build.cs
-C:\Users\Joshua\Documents\Unreal Projects\Tanks\Tanks\Tanks\Source\Tanks.Target.cs
-C:\Users\Joshua\Documents\Unreal Projects\Tanks\Tanks\Tanks\Source\TanksEditor.Target.cs
